@@ -24,14 +24,6 @@
 
 ---
 
-### 🏆 Pencapaian & Trofi GitHub
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HamzahHuzaifah&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" alt="Hamzah GitHub Trophies" />
-</div>
-
----
-
 ### 👨‍💻 Tentang Saya
 
 ```javascript
@@ -81,10 +73,15 @@ const hamzah = {
 
 ---
 
-### 📈 Grafik Aktivitas Kontribusi
+### 📌 Repositori Unggulan
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HamzahHuzaifah&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Grafik Aktivitas Hamzah" />
+  <a href="https://github.com/HamzahHuzaifah/my-react-app">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HamzahHuzaifah&repo=my-react-app&theme=tokyonight&hide_border=true" alt="React App" />
+  </a>
+  <a href="https://github.com/HamzahHuzaifah/struktur-flask-simple">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HamzahHuzaifah&repo=struktur-flask-simple&theme=tokyonight&hide_border=true" alt="Flask Simple" />
+  </a>
 </div>
 
 ---
@@ -101,6 +98,14 @@ const hamzah = {
 </div>
 
 ---
+
+### 💬 Daily Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+</div>
+
+<br/>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,14,35&height=100&section=footer" width="100%"/>
