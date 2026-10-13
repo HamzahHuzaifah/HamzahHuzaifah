@@ -5,7 +5,7 @@
 
   <!-- Typing SVG Animation -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&lines=Software+Developer;Node.js+%26+TypeScript+Enthusiast;AI-Assisted+Development+with+Antigravity;Building+Modern+Web+Applications" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&lines=Software+Developer;Node.js+%26+TypeScript+Enthusiast;AI-Assisted+Coding+with+Antigravity;Building+Scalable+Web+Applications" alt="Typing SVG" />
   </a>
 
   <br/>
@@ -17,6 +17,17 @@
     <a href="mailto:"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   </p>
 
+  <!-- Visitor Badge -->
+  <img src="https://komarev.com/ghpvc/?username=HamzahHuzaifah&label=Profile%20Views&color=0e75b6&style=flat" alt="Visitor Count" />
+
+</div>
+
+---
+
+### 🏆 Pencapaian & Trofi GitHub
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=HamzahHuzaifah&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" alt="Hamzah GitHub Trophies" />
 </div>
 
 ---
@@ -29,14 +40,14 @@ const hamzah = {
     coreStack: ["Node.js", "TypeScript", "JavaScript", "Python"],
     specialty: ["Fullstack Development", "API Services", "Agentic AI Workflow"],
     currentFocus: "Membangun aplikasi modern yang scalable & clean code",
-    tools: ["Antigravity", "VS Code", "Git", "Docker"]
+    tools: ["Antigravity", "VS Code", "Git", "Postman", "Docker"]
 };
 ```
 
 - 🚀 **Fokus**: Software Development & Modern Web Applications.
-- 💡 **Workflow**: Mengembangkan software secara efisien dengan bantuan **Antigravity (AI-assisted & Agentic Coding)**.
-- 🛠️ **Pengalaman**: Membangun RESTful API dengan **Node.js / Express**, aplikasi backend dengan **Python (Flask)**, serta frontend modern dengan **React / TypeScript**.
-- 🤝 Terbuka untuk diskusi proyek dan kolaborasi open-source!
+- 💡 **Workflow**: Mengembangkan software secara efisien & produktif menggunakan **Antigravity (AI-assisted & Agentic Coding)**.
+- 🛠️ **Pengalaman**: Membangun RESTful API dengan **Node.js**, backend service dengan **Python (Flask)**, serta web modern dengan **React / TypeScript**.
+- 🤝 Terbuka untuk kolaborasi proyek, diskusi tech stack, dan kontribusi open-source!
 
 ---
 
@@ -60,7 +71,7 @@ const hamzah = {
 
 <br/>
 
-#### Development & Tools
+#### Tools & Platform
 <img src="https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Antigravity" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
@@ -70,14 +81,22 @@ const hamzah = {
 
 ---
 
-### 📊 Statistik GitHub
+### 📈 Grafik Aktivitas Kontribusi
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HamzahHuzaifah&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Grafik Aktivitas Hamzah" />
+</div>
+
+---
+
+### 📊 Statistik GitHub & Streak
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HamzahHuzaifah&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Statistik GitHub Hamzah" height="160" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamzahHuzaifah&layout=compact&theme=tokyonight&hide_border=true" alt="Bahasa Populer Hamzah" height="160" />
 </div>
 
-<div align="center" style="margin-top: 10px;">
+<div align="center" style="margin-top: 15px;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HamzahHuzaifah&theme=tokyonight&hide_border=true" alt="Streak GitHub Hamzah" />
 </div>
 
